@@ -12,6 +12,5 @@ To view the Repository  https://github.com/JordanEngland/challenge-1
 
 ## Usage
 
-```md
-  ![screenshot of website](assets/images/screencapture.png)
-```
+screenshot of website
+`https://github.com/JordanEngland/challenge-1/blob/main/assets/images/screencapture.png
