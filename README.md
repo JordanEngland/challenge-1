@@ -1,22 +1,21 @@
 # challenge-1
 
-## User Story
+## Description
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+This project shows the benefits of Horiseon's services, which include lead generation, brand awareness, and cost management. Providing information for each service listed above, along with relevant images and details. It has been designed to be user-friendly and meet accessibility standards, while highlighting the importance of digital marketing for businesses today. While completing this project i learned how to make a website meet accessibility standards. Learned about semantic HTML elements and how to structure the elements so they flow logically throughout. Also learned how to write a descriptive title, so it is easier found during search engine operations.
 
-## Acceptance Criteria
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+## Installation
+
+Go view the website  https://jordanengland.github.io/challenge-1/
+To view the Repository  https://github.com/JordanEngland/challenge-1
+
+
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
